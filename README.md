@@ -1,5 +1,7 @@
 # DotCPlus Workshop
 
+![DotCPlus .NET Workshop Series poster](./image.jpeg)
+
 This repository contains the materials for the DotCPlus workshop arranged by day. Click a day below to open its README.
 
 - [DAY 01 README](./DAY_01/README.md)
@@ -8,4 +10,3 @@ This repository contains the materials for the DotCPlus workshop arranged by day
 - [DAY 04 README](./DAY_04/README.md)
 - [DAY 05 README](./DAY_05/README.md)
 
-Each DAY_xx folder also contains a `.gitkeep` file to ensure the folder is tracked when empty.
