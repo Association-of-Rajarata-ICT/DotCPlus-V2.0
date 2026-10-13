@@ -12,6 +12,7 @@
 
 ## Resources
 
+- **Slides:** [Day 01 workshop PDF](./NET%20WORKSHOP%20SERIES_compressed.pdf).
 - **Community:** [Stack Overflow](https://stackoverflow.com/questions/tagged/.net), [Discord](https://discord.com/), and [Microsoft Q&A](https://learn.microsoft.com/en-us/answers/tags/828/developer-technologies).
 - **Learning:** [Microsoft Learn - C++/CLI setup in Visual Studio 2022](https://learn.microsoft.com/en-us/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-180#install-ccli-support-in-visual-studio-2022).
 - **Download:** [Visual Studio Community](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Stable&version=VS18&source=VSLandingPage&cid=2500&passive=false).
